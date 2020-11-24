@@ -1,5 +1,5 @@
 # CucumberAndGherkin
-
+*In this project we use Cucumber and Gherkin to test the input fields of a form on the given website.*
 
 
 
